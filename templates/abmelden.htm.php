@@ -1,0 +1,3 @@
+<?php
+echo "Erfolgreich abgemeldet!"
+?>
